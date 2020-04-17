@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+
+}
+
+.div {
+    margin: auto;
+    width: 700px;
+    border: solid 10px grey;
+    padding: 30px;
+    padding-left: 200px;
+}
